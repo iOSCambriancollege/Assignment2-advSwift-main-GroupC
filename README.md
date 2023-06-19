@@ -1,4 +1,5 @@
 # Assignment2-advSwift-main-groupC
 This project is made by:
-Majid Ali Pawar
-Rohan Yesudasan Kalathivila
+# Majid Ali Pawar 
+and
+# Rohan Yesudasan Kalathivila
